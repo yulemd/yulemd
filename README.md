@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning front-end development
 - 💞️ I’m looking for the best way to become a coder
-- 📫 How to reach me: yulemd@gmail.com
+- 📫 How to reach me: YuriiMotrych@hotmail.com or yulemd@gmail.com
 
 <!---
 yulemd/yulemd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
